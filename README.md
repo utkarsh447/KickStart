@@ -3,7 +3,7 @@ KickStart
 
 A full stack Website aimed for providing step by step guide on transforming a idea into well working Startup with PHP, MySQL and jQuery (AJAX) using Bootstrap 3 for the website design.
 
-The Start Page
+
 <img src="https://raw.github.com/utkarsh447/KickStart/master/Kickstart/z1.png" width="700" height="450"/>
 
 Pages to choose Services
